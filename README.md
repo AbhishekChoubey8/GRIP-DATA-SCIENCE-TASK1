@@ -1,4 +1,4 @@
-# GRIP-DATA-SCIENCE-TASK
+# GRIP-DATA-SCIENCE-TASKS
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 TASK 1 : Prediction Using Supervised ML
